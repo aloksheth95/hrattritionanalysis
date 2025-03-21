@@ -79,8 +79,5 @@ Based on the analysis, the following retention strategies are recommended:
 - Implement time-series analysis for seasonal attrition patterns
 - Develop an automated reporting system for monthly attrition risk monitoring
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any questions or feedback, please reach out at aloksheth95@gmail.com
