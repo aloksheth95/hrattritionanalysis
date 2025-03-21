@@ -41,9 +41,7 @@ Data source: [Kaggle - IBM HR Analytics](https://www.kaggle.com/datasets/pavansu
   - `02_exploratory_analysis.R`: Summary statistics and visualizations
   - `03_attrition_modeling.R`: Predictive modeling and evaluation
   - `04_risk_scoring.R`: Risk score calculation for current employees
-- `analysis/`: R Markdown files with detailed analysis
 - `visualizations/`: Output visualizations
-- `data/`: Dataset information and access instructions
 
 ## Results & Recommendations
 
